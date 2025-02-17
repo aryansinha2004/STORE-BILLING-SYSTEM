@@ -14,7 +14,7 @@ The **Store Billing System** is a simple inventory and billing management system
 ✔️ **Doubly Linked List Implementation:** Efficient product storage and retrieval.  
 
 ## 🏗️ Compilation & Execution
-### Windows (PowerShell Command)
+### Windows (PowerShell)
 ```sh
 g++ "Store Billing System.cpp" -o "Store Billing System"
 ."Store Billing System"
